@@ -1,4 +1,4 @@
-package ichesnokov.bsd405.org;
+package org.bsd405.ichesnokov;
 
 public class Main {
 

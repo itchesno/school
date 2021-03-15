@@ -1,5 +1,6 @@
-package firstpackage.ichesnokov.bsd405.org;
+package org.bsd405.ichesnokov.classes;
 
+import org.bsd405.ichesnokov.classes.Person;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

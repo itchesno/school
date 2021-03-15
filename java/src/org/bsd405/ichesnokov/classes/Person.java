@@ -1,4 +1,4 @@
-package firstpackage.ichesnokov.bsd405.org;
+package org.bsd405.ichesnokov.classes;
 
 public class Person {
     private String firstName;
