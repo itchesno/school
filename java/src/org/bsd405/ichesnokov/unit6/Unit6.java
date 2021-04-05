@@ -1,5 +1,7 @@
 package org.bsd405.ichesnokov.unit6;
 
+import java.util.ArrayList;
+
 public class Unit6 {
     public static interface Shape {
         double area();
@@ -17,4 +19,5 @@ public class Unit6 {
         }
         return total;
     }
+
 }
