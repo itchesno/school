@@ -2,7 +2,7 @@ package org.bsd405.ichesnokov.unit6;
 
 import java.util.ArrayList;
 
-public class Unit6 {
+public class Shapes {
     public static interface Shape {
         double area();
         double perimeter();

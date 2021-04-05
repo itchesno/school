@@ -1,11 +1,11 @@
-package org.bsd405.ichesnokov.classes;
+package org.bsd405.ichesnokov.unit7;
 
+import org.bsd405.ichesnokov.classes.Customer;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
-class CustomerTest {
+public class CustomerTest {
 
     @Test
     void compareTo() {
